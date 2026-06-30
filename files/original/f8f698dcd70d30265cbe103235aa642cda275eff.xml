@@ -1,0 +1,369 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd" SCHEMAVERSION="4.2">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>0200_0552_0179_0200.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Styles>
+    <TextStyle ID="textstyle-None---sans-serif---proportional---None---None---None" FONTTYPE="sans-serif" FONTWIDTH="proportional"/>
+  </Styles>
+  <Tags/>
+  <Layout>
+    <Page ID="None" PHYSICAL_IMG_NR="0" WIDTH="2098" HEIGHT="2540">
+      <PrintSpace VPOS="0" HPOS="0" HEIGHT="2540" WIDTH="2098">
+        <TextBlock ID="region_0cc48097-5f08-4ec9-af3a-b770cc86f210" HEIGHT="120" WIDTH="672" HPOS="740" VPOS="1122" IDNEXT="c237c889-eda2-4ddc-a466-29f3702efd16">
+          <Shape>
+            <Polygon POINTS="740,1122 1412,1122 1412,1242 740,1242"/>
+          </Shape>
+          <TextLine ID="cda6bfa1-b085-41af-b1fe-bb12308bd1d1" HEIGHT="120" WIDTH="672" HPOS="740" VPOS="1122" STYLEREFS="textstyle-None---sans-serif---proportional---None---None---None">
+            <Shape>
+              <Polygon POINTS="740,1134 756,1129 777,1142 798,1126 823,1122 845,1134 911,1122 937,1137 957,1122 1027,1130 1055,1122 1062,1129 1096,1125 1122,1142 1151,1126 1192,1122 1215,1142 1242,1125 1273,1133 1301,1122 1322,1141 1351,1125 1372,1141 1412,1151 1412,1200 1378,1199 1359,1213 1332,1198 1312,1198 1295,1212 1250,1211 1227,1223 1204,1210 1194,1219 1179,1215 1167,1227 1144,1232 1132,1226 1112,1234 1099,1227 1085,1231 1075,1222 1062,1230 1042,1222 1022,1242 988,1226 965,1230 946,1215 924,1235 908,1222 887,1222 877,1214 849,1230 818,1230 807,1219 781,1227 740,1215"/>
+            </Shape>
+            <String ID="cda6bfa1-b085-41af-b1fe-bb12308bd1d1-dummy-Word" HEIGHT="120" WIDTH="672" HPOS="740" VPOS="1122" CONTENT="Giebichenste in bey Halle">
+              <Shape>
+                <Polygon POINTS="740,1134 756,1129 777,1142 798,1126 823,1122 845,1134 911,1122 937,1137 957,1122 1027,1130 1055,1122 1062,1129 1096,1125 1122,1142 1151,1126 1192,1122 1215,1142 1242,1125 1273,1133 1301,1122 1322,1141 1351,1125 1372,1141 1412,1151 1412,1200 1378,1199 1359,1213 1332,1198 1312,1198 1295,1212 1250,1211 1227,1223 1204,1210 1194,1219 1179,1215 1167,1227 1144,1232 1132,1226 1112,1234 1099,1227 1085,1231 1075,1222 1062,1230 1042,1222 1022,1242 988,1226 965,1230 946,1215 924,1235 908,1222 887,1222 877,1214 849,1230 818,1230 807,1219 781,1227 740,1215"/>
+              </Shape>
+            </String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="c237c889-eda2-4ddc-a466-29f3702efd16" HEIGHT="2379" WIDTH="123" HPOS="1973" VPOS="91">
+          <Shape>
+            <Polygon POINTS="1973,91 2096,91 2096,2470 1973,2470"/>
+          </Shape>
+          <TextLine ID="line_245ac724-e751-4da9-8742-c23d06d80c37" HEIGHT="83" WIDTH="105" HPOS="1991" VPOS="91" STYLEREFS="textstyle-None---sans-serif---proportional---None---None---None">
+            <Shape>
+              <Polygon POINTS="1991,118 2043,91 2096,110 2096,157 2086,155 2055,171 2036,155 2012,174 1999,166 1991,173"/>
+            </Shape>
+            <String ID="line_245ac724-e751-4da9-8742-c23d06d80c37-dummy-Word" HEIGHT="83" WIDTH="105" HPOS="1991" VPOS="91" CONTENT="hy">
+              <Shape>
+                <Polygon POINTS="1991,118 2043,91 2096,110 2096,157 2086,155 2055,171 2036,155 2012,174 1999,166 1991,173"/>
+              </Shape>
+            </String>
+          </TextLine>
+          <TextLine ID="line_65ebe26c-881e-4e02-abcf-244552323154" HEIGHT="76" WIDTH="113" HPOS="1983" VPOS="156" STYLEREFS="textstyle-None---sans-serif---proportional---None---None---None">
+            <Shape>
+              <Polygon POINTS="1983,173 1998,181 2033,156 2060,176 2083,157 2096,167 2092,220 2082,223 2075,216 2055,232 2012,216 1992,231 1983,224"/>
+            </Shape>
+            <String ID="line_65ebe26c-881e-4e02-abcf-244552323154-dummy-Word" HEIGHT="76" WIDTH="113" HPOS="1983" VPOS="156" CONTENT="Lek">
+              <Shape>
+                <Polygon POINTS="1983,173 1998,181 2033,156 2060,176 2083,157 2096,167 2092,220 2082,223 2075,216 2055,232 2012,216 1992,231 1983,224"/>
+              </Shape>
+            </String>
+          </TextLine>
+          <TextLine ID="b8248b05-62a1-4da3-9256-d8d373203b21" HEIGHT="91" WIDTH="118" HPOS="1978" VPOS="210" STYLEREFS="textstyle-None---sans-serif---proportional---None---None---None">
+            <Shape>
+              <Polygon POINTS="1978,220 1995,210 2011,222 2096,237 2096,286 2075,282 2051,289 2022,282 1991,301 1978,297"/>
+            </Shape>
+            <String ID="b8248b05-62a1-4da3-9256-d8d373203b21-dummy-Word" HEIGHT="91" WIDTH="118" HPOS="1978" VPOS="210" CONTENT="mee">
+              <Shape>
+                <Polygon POINTS="1978,220 1995,210 2011,222 2096,237 2096,286 2075,282 2051,289 2022,282 1991,301 1978,297"/>
+              </Shape>
+            </String>
+          </TextLine>
+          <TextLine ID="dad53364-7c30-495b-99a7-f5ead7e24cee" HEIGHT="83" WIDTH="114" HPOS="1982" VPOS="282" STYLEREFS="textstyle-None---sans-serif---proportional---None---None---None">
+            <Shape>
+              <Polygon POINTS="1982,299 2002,297 2023,283 2044,294 2078,282 2096,300 2096,348 2082,357 2050,358 2035,345 2009,365 1982,365"/>
+            </Shape>
+            <String ID="dad53364-7c30-495b-99a7-f5ead7e24cee-dummy-Word" HEIGHT="83" WIDTH="114" HPOS="1982" VPOS="282" CONTENT="de h">
+              <Shape>
+                <Polygon POINTS="1982,299 2002,297 2023,283 2044,294 2078,282 2096,300 2096,348 2082,357 2050,358 2035,345 2009,365 1982,365"/>
+              </Shape>
+            </String>
+          </TextLine>
+          <TextLine ID="line_639e7dd7-9ceb-4aae-9835-622608e5a2f7" HEIGHT="87" WIDTH="115" HPOS="1981" VPOS="345" STYLEREFS="textstyle-None---sans-serif---proportional---None---None---None">
+            <Shape>
+              <Polygon POINTS="1981,365 2007,366 2035,345 2049,358 2089,357 2096,364 2096,413 2087,421 2038,413 2010,429 1997,425 1990,432 1981,425"/>
+            </Shape>
+            <String ID="line_639e7dd7-9ceb-4aae-9835-622608e5a2f7-dummy-Word" HEIGHT="87" WIDTH="115" HPOS="1981" VPOS="345" CONTENT="val">
+              <Shape>
+                <Polygon POINTS="1981,365 2007,366 2035,345 2049,358 2089,357 2096,364 2096,413 2087,421 2038,413 2010,429 1997,425 1990,432 1981,425"/>
+              </Shape>
+            </String>
+          </TextLine>
+          <TextLine ID="c7f40edb-b2c5-4d93-bc34-ad090a1c7cca" HEIGHT="81" WIDTH="120" HPOS="1976" VPOS="412" STYLEREFS="textstyle-None---sans-serif---proportional---None---None---None">
+            <Shape>
+              <Polygon POINTS="1976,435 2004,417 2044,412 2069,431 2086,420 2096,429 2096,478 2089,485 2074,475 2048,493 2036,484 1999,477 1989,484 1976,476"/>
+            </Shape>
+            <String ID="c7f40edb-b2c5-4d93-bc34-ad090a1c7cca-dummy-Word" HEIGHT="81" WIDTH="120" HPOS="1976" VPOS="412" CONTENT="de 2">
+              <Shape>
+                <Polygon POINTS="1976,435 2004,417 2044,412 2069,431 2086,420 2096,429 2096,478 2089,485 2074,475 2048,493 2036,484 1999,477 1989,484 1976,476"/>
+              </Shape>
+            </String>
+          </TextLine>
+          <TextLine ID="e175b64e-45a7-44c6-a9d4-704cfe44c781" HEIGHT="112" WIDTH="118" HPOS="1978" VPOS="477" STYLEREFS="textstyle-None---sans-serif---proportional---None---None---None">
+            <Shape>
+              <Polygon POINTS="1978,477 1989,486 1999,477 2047,493 2059,485 2079,487 2096,504 2096,551 2030,557 2015,572 1996,572 1978,589"/>
+            </Shape>
+            <String ID="e175b64e-45a7-44c6-a9d4-704cfe44c781-dummy-Word" HEIGHT="112" WIDTH="118" HPOS="1978" VPOS="477" CONTENT="rok">
+              <Shape>
+                <Polygon POINTS="1978,477 1989,486 1999,477 2047,493 2059,485 2079,487 2096,504 2096,551 2030,557 2015,572 1996,572 1978,589"/>
+              </Shape>
+            </String>
+          </TextLine>
+          <TextLine ID="line_7967a80d-60dc-4e98-a89c-1ee3e3d23edd" HEIGHT="76" WIDTH="119" HPOS="1977" VPOS="554" STYLEREFS="textstyle-None---sans-serif---proportional---None---None---None">
+            <Shape>
+              <Polygon POINTS="1977,558 1990,554 2011,574 2029,574 2054,557 2086,562 2096,572 2096,621 2081,618 2063,630 2052,622 2011,630 1977,614"/>
+            </Shape>
+            <String ID="line_7967a80d-60dc-4e98-a89c-1ee3e3d23edd-dummy-Word" HEIGHT="76" WIDTH="119" HPOS="1977" VPOS="554" CONTENT="in 2">
+              <Shape>
+                <Polygon POINTS="1977,558 1990,554 2011,574 2029,574 2054,557 2086,562 2096,572 2096,621 2081,618 2063,630 2052,622 2011,630 1977,614"/>
+              </Shape>
+            </String>
+          </TextLine>
+          <TextLine ID="line_3cb272a9-afa9-481d-ac77-94bbe0b03a48" HEIGHT="108" WIDTH="118" HPOS="1978" VPOS="630" STYLEREFS="textstyle-None---sans-serif---proportional---None---None---None">
+            <Shape>
+              <Polygon POINTS="1978,656 2011,630 2031,642 2077,638 2096,645 2096,692 2067,716 2042,727 2022,708 1978,738"/>
+            </Shape>
+            <String ID="line_3cb272a9-afa9-481d-ac77-94bbe0b03a48-dummy-Word" HEIGHT="108" WIDTH="118" HPOS="1978" VPOS="630" CONTENT="byd">
+              <Shape>
+                <Polygon POINTS="1978,656 2011,630 2031,642 2077,638 2096,645 2096,692 2067,716 2042,727 2022,708 1978,738"/>
+              </Shape>
+            </String>
+          </TextLine>
+          <TextLine ID="afaa0b72-07b4-4818-89d4-4d22aab6f294" HEIGHT="69" WIDTH="118" HPOS="1978" VPOS="711" STYLEREFS="textstyle-None---sans-serif---proportional---None---None---None">
+            <Shape>
+              <Polygon POINTS="1978,736 2016,711 2040,726 2074,711 2096,713 2096,760 2061,780 2039,763 2013,779 1987,762 1978,769"/>
+            </Shape>
+            <String ID="afaa0b72-07b4-4818-89d4-4d22aab6f294-dummy-Word" HEIGHT="69" WIDTH="118" HPOS="1978" VPOS="711" CONTENT="men">
+              <Shape>
+                <Polygon POINTS="1978,736 2016,711 2040,726 2074,711 2096,713 2096,760 2061,780 2039,763 2013,779 1987,762 1978,769"/>
+              </Shape>
+            </String>
+          </TextLine>
+          <TextLine ID="line_4bea4556-2b5b-44a6-a827-0b78c5485a04" HEIGHT="79" WIDTH="118" HPOS="1978" VPOS="766" STYLEREFS="textstyle-None---sans-serif---proportional---None---None---None">
+            <Shape>
+              <Polygon POINTS="1978,766 1998,766 2013,778 2027,769 2056,778 2068,770 2096,786 2092,837 2072,837 2065,844 2046,837 2035,845 2003,843 1988,829 1978,837"/>
+            </Shape>
+            <String ID="line_4bea4556-2b5b-44a6-a827-0b78c5485a04-dummy-Word" HEIGHT="79" WIDTH="118" HPOS="1978" VPOS="766" CONTENT="det">
+              <Shape>
+                <Polygon POINTS="1978,766 1998,766 2013,778 2027,769 2056,778 2068,770 2096,786 2092,837 2072,837 2065,844 2046,837 2035,845 2003,843 1988,829 1978,837"/>
+              </Shape>
+            </String>
+          </TextLine>
+          <TextLine ID="b57fccb6-7dad-456e-adec-d0f0955e18b0" HEIGHT="89" WIDTH="115" HPOS="1981" VPOS="831" STYLEREFS="textstyle-None---sans-serif---proportional---None---None---None">
+            <Shape>
+              <Polygon POINTS="1981,837 1989,831 2004,843 2019,835 2031,847 2047,836 2061,843 2082,839 2096,853 2096,902 2082,916 2058,920 2028,897 2002,897 1981,912"/>
+            </Shape>
+            <String ID="b57fccb6-7dad-456e-adec-d0f0955e18b0-dummy-Word" HEIGHT="89" WIDTH="115" HPOS="1981" VPOS="831" CONTENT="van">
+              <Shape>
+                <Polygon POINTS="1981,837 1989,831 2004,843 2019,835 2031,847 2047,836 2061,843 2082,839 2096,853 2096,902 2082,916 2058,920 2028,897 2002,897 1981,912"/>
+              </Shape>
+            </String>
+          </TextLine>
+          <TextLine ID="d4011441-2711-44c1-b5d3-bde3f5c293ae" HEIGHT="97" WIDTH="118" HPOS="1978" VPOS="896" STYLEREFS="textstyle-None---sans-serif---proportional---None---None---None">
+            <Shape>
+              <Polygon POINTS="1978,908 2027,896 2061,919 2096,931 2096,977 2073,985 2052,973 2002,973 1978,993"/>
+            </Shape>
+            <String ID="d4011441-2711-44c1-b5d3-bde3f5c293ae-dummy-Word" HEIGHT="97" WIDTH="118" HPOS="1978" VPOS="896" CONTENT="den">
+              <Shape>
+                <Polygon POINTS="1978,908 2027,896 2061,919 2096,931 2096,977 2073,985 2052,973 2002,973 1978,993"/>
+              </Shape>
+            </String>
+          </TextLine>
+          <TextLine ID="dcbe8408-3f3a-4b3c-b8ba-999de0f6f826" HEIGHT="111" WIDTH="118" HPOS="1978" VPOS="973" STYLEREFS="textstyle-None---sans-serif---proportional---None---None---None">
+            <Shape>
+              <Polygon POINTS="1978,993 2002,973 2044,973 2067,996 2096,1003 2096,1051 2063,1083 2052,1084 2014,1049 2003,1056 1991,1045 1978,1049"/>
+            </Shape>
+            <String ID="dcbe8408-3f3a-4b3c-b8ba-999de0f6f826-dummy-Word" HEIGHT="111" WIDTH="118" HPOS="1978" VPOS="973" CONTENT="aa">
+              <Shape>
+                <Polygon POINTS="1978,993 2002,973 2044,973 2067,996 2096,1003 2096,1051 2063,1083 2052,1084 2014,1049 2003,1056 1991,1045 1978,1049"/>
+              </Shape>
+            </String>
+          </TextLine>
+          <TextLine ID="line_5fefda7b-a015-4d23-91f3-9b90d784d386" HEIGHT="99" WIDTH="122" HPOS="1974" VPOS="1046" STYLEREFS="textstyle-None---sans-serif---proportional---None---None---None">
+            <Shape>
+              <Polygon POINTS="1974,1046 2016,1051 2051,1083 2096,1075 2096,1120 2071,1126 2056,1141 2034,1145 2008,1119 1974,1134"/>
+            </Shape>
+            <String ID="line_5fefda7b-a015-4d23-91f3-9b90d784d386-dummy-Word" HEIGHT="99" WIDTH="122" HPOS="1974" VPOS="1046" CONTENT="hier">
+              <Shape>
+                <Polygon POINTS="1974,1046 2016,1051 2051,1083 2096,1075 2096,1120 2071,1126 2056,1141 2034,1145 2008,1119 1974,1134"/>
+              </Shape>
+            </String>
+          </TextLine>
+          <TextLine ID="line_7f987c17-1473-4051-b417-add1b861fcc8" HEIGHT="89" WIDTH="122" HPOS="1974" VPOS="1119" STYLEREFS="textstyle-None---sans-serif---proportional---None---None---None">
+            <Shape>
+              <Polygon POINTS="1974,1134 2008,1119 2034,1145 2071,1133 2096,1147 2096,1196 2084,1204 2067,1192 2018,1192 2003,1207 1974,1208"/>
+            </Shape>
+            <String ID="line_7f987c17-1473-4051-b417-add1b861fcc8-dummy-Word" HEIGHT="89" WIDTH="122" HPOS="1974" VPOS="1119" CONTENT="Esch">
+              <Shape>
+                <Polygon POINTS="1974,1134 2008,1119 2034,1145 2071,1133 2096,1147 2096,1196 2084,1204 2067,1192 2018,1192 2003,1207 1974,1208"/>
+              </Shape>
+            </String>
+          </TextLine>
+          <TextLine ID="de59ffb6-4cd3-4dc5-b927-ec3a5721c349" HEIGHT="120" WIDTH="120" HPOS="1976" VPOS="1193" STYLEREFS="textstyle-None---sans-serif---proportional---None---None---None">
+            <Shape>
+              <Polygon POINTS="1976,1208 2001,1208 2024,1193 2067,1228 2096,1224 2096,1271 2039,1268 2001,1303 1987,1302 1976,1313"/>
+            </Shape>
+            <String ID="de59ffb6-4cd3-4dc5-b927-ec3a5721c349-dummy-Word" HEIGHT="120" WIDTH="120" HPOS="1976" VPOS="1193" CONTENT="len.">
+              <Shape>
+                <Polygon POINTS="1976,1208 2001,1208 2024,1193 2067,1228 2096,1224 2096,1271 2039,1268 2001,1303 1987,1302 1976,1313"/>
+              </Shape>
+            </String>
+          </TextLine>
+          <TextLine ID="line_3ed8076f-0106-4105-b941-3890b71de27b" HEIGHT="80" WIDTH="122" HPOS="1974" VPOS="1285" STYLEREFS="textstyle-None---sans-serif---proportional---None---None---None">
+            <Shape>
+              <Polygon POINTS="1974,1301 2007,1303 2033,1285 2055,1285 2074,1298 2096,1293 2095,1342 2070,1341 2045,1360 2032,1353 2003,1365 1990,1353 1974,1357"/>
+            </Shape>
+            <String ID="line_3ed8076f-0106-4105-b941-3890b71de27b-dummy-Word" HEIGHT="80" WIDTH="122" HPOS="1974" VPOS="1285" CONTENT="voer">
+              <Shape>
+                <Polygon POINTS="1974,1301 2007,1303 2033,1285 2055,1285 2074,1298 2096,1293 2095,1342 2070,1341 2045,1360 2032,1353 2003,1365 1990,1353 1974,1357"/>
+              </Shape>
+            </String>
+          </TextLine>
+          <TextLine ID="line_670c7729-f659-4eb0-bdea-a96200a03a32" HEIGHT="81" WIDTH="122" HPOS="1974" VPOS="1356" STYLEREFS="textstyle-None---sans-serif---proportional---None---None---None">
+            <Shape>
+              <Polygon POINTS="1974,1359 1989,1367 2029,1356 2053,1372 2078,1359 2096,1365 2094,1416 2079,1413 2055,1429 2016,1417 1991,1437 1974,1437"/>
+            </Shape>
+            <String ID="line_670c7729-f659-4eb0-bdea-a96200a03a32-dummy-Word" HEIGHT="81" WIDTH="122" HPOS="1974" VPOS="1356" CONTENT="len">
+              <Shape>
+                <Polygon POINTS="1974,1359 1989,1367 2029,1356 2053,1372 2078,1359 2096,1365 2094,1416 2079,1413 2055,1429 2016,1417 1991,1437 1974,1437"/>
+              </Shape>
+            </String>
+          </TextLine>
+          <TextLine ID="d7802fea-ebc5-409f-8916-801ddb9f6776" HEIGHT="89" WIDTH="120" HPOS="1976" VPOS="1429" STYLEREFS="textstyle-None---sans-serif---proportional---None---None---None">
+            <Shape>
+              <Polygon POINTS="1976,1436 1984,1429 1993,1437 2039,1437 2052,1448 2073,1433 2087,1445 2096,1440 2096,1487 2083,1494 2062,1486 2030,1487 1976,1518"/>
+            </Shape>
+            <String ID="d7802fea-ebc5-409f-8916-801ddb9f6776-dummy-Word" HEIGHT="89" WIDTH="120" HPOS="1976" VPOS="1429" CONTENT="l. be">
+              <Shape>
+                <Polygon POINTS="1976,1436 1984,1429 1993,1437 2039,1437 2052,1448 2073,1433 2087,1445 2096,1440 2096,1487 2083,1494 2062,1486 2030,1487 1976,1518"/>
+              </Shape>
+            </String>
+          </TextLine>
+          <TextLine ID="line_881689ef-1ae0-4d98-aa38-b5c2badf9eed" HEIGHT="115" WIDTH="114" HPOS="1982" VPOS="1485" STYLEREFS="textstyle-None---sans-serif---proportional---None---None---None">
+            <Shape>
+              <Polygon POINTS="1982,1516 2048,1485 2068,1489 2096,1514 2093,1566 2069,1577 2043,1566 2014,1585 1999,1583 1982,1600"/>
+            </Shape>
+            <String ID="line_881689ef-1ae0-4d98-aa38-b5c2badf9eed-dummy-Word" HEIGHT="115" WIDTH="114" HPOS="1982" VPOS="1485" CONTENT="Loo">
+              <Shape>
+                <Polygon POINTS="1982,1516 2048,1485 2068,1489 2096,1514 2093,1566 2069,1577 2043,1566 2014,1585 1999,1583 1982,1600"/>
+              </Shape>
+            </String>
+          </TextLine>
+          <TextLine ID="ed622840-29eb-44cb-abcc-a4df7e6cb714" HEIGHT="87" WIDTH="120" HPOS="1976" VPOS="1567" STYLEREFS="textstyle-None---sans-serif---proportional---None---None---None">
+            <Shape>
+              <Polygon POINTS="1976,1571 1999,1587 2044,1567 2083,1595 2096,1591 2095,1639 2037,1635 2005,1654 1976,1643"/>
+            </Shape>
+            <String ID="ed622840-29eb-44cb-abcc-a4df7e6cb714-dummy-Word" HEIGHT="87" WIDTH="120" HPOS="1976" VPOS="1567" CONTENT="20u">
+              <Shape>
+                <Polygon POINTS="1976,1571 1999,1587 2044,1567 2083,1595 2096,1591 2095,1639 2037,1635 2005,1654 1976,1643"/>
+              </Shape>
+            </String>
+          </TextLine>
+          <TextLine ID="df93c9f2-ce30-4147-9231-a6254f9f29d8" HEIGHT="117" WIDTH="120" HPOS="1976" VPOS="1635" STYLEREFS="textstyle-None---sans-serif---proportional---None---None---None">
+            <Shape>
+              <Polygon POINTS="1976,1645 2005,1653 2038,1635 2044,1641 2063,1637 2096,1664 2096,1713 2090,1719 2054,1744 1984,1746 1976,1752"/>
+            </Shape>
+            <String ID="df93c9f2-ce30-4147-9231-a6254f9f29d8-dummy-Word" HEIGHT="117" WIDTH="120" HPOS="1976" VPOS="1635" CONTENT="hy">
+              <Shape>
+                <Polygon POINTS="1976,1645 2005,1653 2038,1635 2044,1641 2063,1637 2096,1664 2096,1713 2090,1719 2054,1744 1984,1746 1976,1752"/>
+              </Shape>
+            </String>
+          </TextLine>
+          <TextLine ID="line_1884820a-b3a1-4942-9fad-911bc0bd5523" HEIGHT="71" WIDTH="120" HPOS="1976" VPOS="1734" STYLEREFS="textstyle-None---sans-serif---proportional---None---None---None">
+            <Shape>
+              <Polygon POINTS="1976,1752 2012,1744 2039,1748 2063,1736 2096,1734 2091,1788 2060,1781 1997,1805 1976,1797"/>
+            </Shape>
+            <String ID="line_1884820a-b3a1-4942-9fad-911bc0bd5523-dummy-Word" HEIGHT="71" WIDTH="120" HPOS="1976" VPOS="1734" CONTENT="wa">
+              <Shape>
+                <Polygon POINTS="1976,1752 2012,1744 2039,1748 2063,1736 2096,1734 2091,1788 2060,1781 1997,1805 1976,1797"/>
+              </Shape>
+            </String>
+          </TextLine>
+          <TextLine ID="line_1da9528b-97fa-451c-aa44-5f67577b4b26" HEIGHT="74" WIDTH="122" HPOS="1974" VPOS="1803" STYLEREFS="textstyle-None---sans-serif---proportional---None---None---None">
+            <Shape>
+              <Polygon POINTS="1974,1835 1990,1819 2029,1804 2072,1810 2087,1803 2096,1810 2096,1858 2077,1877 2044,1869 2035,1877 2017,1869 2008,1876 1982,1864 1974,1869"/>
+            </Shape>
+            <String ID="line_1da9528b-97fa-451c-aa44-5f67577b4b26-dummy-Word" HEIGHT="74" WIDTH="122" HPOS="1974" VPOS="1803" CONTENT="en 2.">
+              <Shape>
+                <Polygon POINTS="1974,1835 1990,1819 2029,1804 2072,1810 2087,1803 2096,1810 2096,1858 2077,1877 2044,1869 2035,1877 2017,1869 2008,1876 1982,1864 1974,1869"/>
+              </Shape>
+            </String>
+          </TextLine>
+          <TextLine ID="eb8f4dfa-4b60-459b-83ef-6b956a35aa80" HEIGHT="99" WIDTH="120" HPOS="1976" VPOS="1869" STYLEREFS="textstyle-None---sans-serif---proportional---None---None---None">
+            <Shape>
+              <Polygon POINTS="1976,1869 2026,1870 2034,1878 2048,1870 2072,1890 2096,1890 2096,1936 2075,1941 2045,1934 2037,1942 2028,1937 1981,1968 1976,1963"/>
+            </Shape>
+            <String ID="eb8f4dfa-4b60-459b-83ef-6b956a35aa80-dummy-Word" HEIGHT="99" WIDTH="120" HPOS="1976" VPOS="1869" CONTENT="van">
+              <Shape>
+                <Polygon POINTS="1976,1869 2026,1870 2034,1878 2048,1870 2072,1890 2096,1890 2096,1936 2075,1941 2045,1934 2037,1942 2028,1937 1981,1968 1976,1963"/>
+              </Shape>
+            </String>
+          </TextLine>
+          <TextLine ID="line_02dcda82-f35a-4430-8eca-f569a748d68b" HEIGHT="91" WIDTH="123" HPOS="1973" VPOS="1934" STYLEREFS="textstyle-None---sans-serif---proportional---None---None---None">
+            <Shape>
+              <Polygon POINTS="1973,1965 2011,1942 2040,1941 2047,1934 2065,1934 2096,1963 2096,2012 2078,2025 2015,2018 2002,2007 1973,2019"/>
+            </Shape>
+            <String ID="line_02dcda82-f35a-4430-8eca-f569a748d68b-dummy-Word" HEIGHT="91" WIDTH="123" HPOS="1973" VPOS="1934" CONTENT="luk">
+              <Shape>
+                <Polygon POINTS="1973,1965 2011,1942 2040,1941 2047,1934 2065,1934 2096,1963 2096,2012 2078,2025 2015,2018 2002,2007 1973,2019"/>
+              </Shape>
+            </String>
+          </TextLine>
+          <TextLine ID="line_6654fafb-f0f4-41f7-8d83-aa52084d7a67" HEIGHT="93" WIDTH="122" HPOS="1974" VPOS="2008" STYLEREFS="textstyle-None---sans-serif---proportional---None---None---None">
+            <Shape>
+              <Polygon POINTS="1974,2019 2003,2008 2016,2019 2054,2019 2096,2044 2096,2093 2067,2100 2056,2089 2039,2098 2030,2089 2002,2089 1991,2100 1974,2101"/>
+            </Shape>
+            <String ID="line_6654fafb-f0f4-41f7-8d83-aa52084d7a67-dummy-Word" HEIGHT="93" WIDTH="122" HPOS="1974" VPOS="2008" CONTENT="had">
+              <Shape>
+                <Polygon POINTS="1974,2019 2003,2008 2016,2019 2054,2019 2096,2044 2096,2093 2067,2100 2056,2089 2039,2098 2030,2089 2002,2089 1991,2100 1974,2101"/>
+              </Shape>
+            </String>
+          </TextLine>
+          <TextLine ID="line_9547be06-e2dd-462c-bc62-62b75fc23db2" HEIGHT="100" WIDTH="120" HPOS="1976" VPOS="2101" STYLEREFS="textstyle-None---sans-serif---proportional---None---None---None">
+            <Shape>
+              <Polygon POINTS="1976,2102 2024,2101 2060,2122 2096,2121 2096,2170 2079,2174 2054,2197 2034,2201 2014,2181 1989,2177 1976,2187"/>
+            </Shape>
+            <String ID="line_9547be06-e2dd-462c-bc62-62b75fc23db2-dummy-Word" HEIGHT="100" WIDTH="120" HPOS="1976" VPOS="2101" CONTENT="hy">
+              <Shape>
+                <Polygon POINTS="1976,2102 2024,2101 2060,2122 2096,2121 2096,2170 2079,2174 2054,2197 2034,2201 2014,2181 1989,2177 1976,2187"/>
+              </Shape>
+            </String>
+          </TextLine>
+          <TextLine ID="line_901298c6-c695-4920-963c-f3c8c3f69677" HEIGHT="103" WIDTH="114" HPOS="1982" VPOS="2168" STYLEREFS="textstyle-None---sans-serif---proportional---None---None---None">
+            <Shape>
+              <Polygon POINTS="1982,2168 1993,2175 2003,2168 2046,2205 2079,2181 2096,2194 2096,2243 2062,2240 2051,2251 2039,2247 2004,2271 1982,2259"/>
+            </Shape>
+            <String ID="line_901298c6-c695-4920-963c-f3c8c3f69677-dummy-Word" HEIGHT="103" WIDTH="114" HPOS="1982" VPOS="2168" CONTENT="zel">
+              <Shape>
+                <Polygon POINTS="1982,2168 1993,2175 2003,2168 2046,2205 2079,2181 2096,2194 2096,2243 2062,2240 2051,2251 2039,2247 2004,2271 1982,2259"/>
+              </Shape>
+            </String>
+          </TextLine>
+          <TextLine ID="line_3139d04f-baa6-4902-b6e0-d03f7803f4ea" HEIGHT="112" WIDTH="117" HPOS="1979" VPOS="2247" STYLEREFS="textstyle-None---sans-serif---proportional---None---None---None">
+            <Shape>
+              <Polygon POINTS="1979,2263 1987,2259 2003,2272 2020,2255 2044,2247 2064,2267 2096,2270 2096,2317 2090,2323 2073,2316 2060,2328 2026,2333 1991,2359 1979,2356"/>
+            </Shape>
+            <String ID="line_3139d04f-baa6-4902-b6e0-d03f7803f4ea-dummy-Word" HEIGHT="112" WIDTH="117" HPOS="1979" VPOS="2247" CONTENT="dixi">
+              <Shape>
+                <Polygon POINTS="1979,2263 1987,2259 2003,2272 2020,2255 2044,2247 2064,2267 2096,2270 2096,2317 2090,2323 2073,2316 2060,2328 2026,2333 1991,2359 1979,2356"/>
+              </Shape>
+            </String>
+          </TextLine>
+          <TextLine ID="bd2f13ef-00e6-4ba0-9281-2bdd86bd54be" HEIGHT="96" WIDTH="111" HPOS="1985" VPOS="2333" STYLEREFS="textstyle-None---sans-serif---proportional---None---None---None">
+            <Shape>
+              <Polygon POINTS="1985,2356 2003,2356 2026,2333 2072,2333 2087,2344 2096,2339 2096,2385 2044,2413 2026,2414 2011,2429 1985,2418"/>
+            </Shape>
+            <String ID="bd2f13ef-00e6-4ba0-9281-2bdd86bd54be-dummy-Word" HEIGHT="96" WIDTH="111" HPOS="1985" VPOS="2333" CONTENT="Sc">
+              <Shape>
+                <Polygon POINTS="1985,2356 2003,2356 2026,2333 2072,2333 2087,2344 2096,2339 2096,2385 2044,2413 2026,2414 2011,2429 1985,2418"/>
+              </Shape>
+            </String>
+          </TextLine>
+          <TextLine ID="line_9aad2baa-d4bd-4aec-89d9-d644b3a55b24" HEIGHT="68" WIDTH="105" HPOS="1991" VPOS="2402" STYLEREFS="textstyle-None---sans-serif---proportional---None---None---None">
+            <Shape>
+              <Polygon POINTS="1991,2422 2011,2427 2028,2411 2041,2414 2059,2402 2079,2414 2096,2414 2096,2460 2062,2470 2052,2462 2039,2468 2029,2462 2004,2465 1991,2456"/>
+            </Shape>
+            <String ID="line_9aad2baa-d4bd-4aec-89d9-d644b3a55b24-dummy-Word" HEIGHT="68" WIDTH="105" HPOS="1991" VPOS="2402" CONTENT="210">
+              <Shape>
+                <Polygon POINTS="1991,2422 2011,2427 2028,2411 2041,2414 2059,2402 2079,2414 2096,2414 2096,2460 2062,2470 2052,2462 2039,2468 2029,2462 2004,2465 1991,2456"/>
+              </Shape>
+            </String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

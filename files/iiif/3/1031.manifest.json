@@ -1,0 +1,188 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "http://localhost/omeka-s-claude/iiif/3/1031/manifest",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Brief 1"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Title"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Brief 1"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "is about"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;985\"><span class=\"resource-name\">Reis van Groningen naar Haren</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;986\"><span class=\"resource-name\">Reis van Haren naar Harender molen</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;987\"><span class=\"resource-name\">Reis van Harender molen naar Noordlaren</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;988\"><span class=\"resource-name\">Reis van Noordlaren naar Midlaren</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;989\"><span class=\"resource-name\">Reis van Midlaren naar Zuidlaren</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;990\"><span class=\"resource-name\">Reis van Zuidlaren naar Anlo</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;991\"><span class=\"resource-name\">Reis van Anlo naar Eext</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;992\"><span class=\"resource-name\">Reis van Eext naar Gieten</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;993\"><span class=\"resource-name\">Reis van Gieten naar Gasselte</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;994\"><span class=\"resource-name\">Reis van Gasselte naar Drouwen</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;995\"><span class=\"resource-name\">Reis van Drouwen naar Borger</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;996\"><span class=\"resource-name\">Reis van Borger naar Odoorn</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;997\"><span class=\"resource-name\">Reis van Odoorn naar Emmen</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;998\"><span class=\"resource-name\">Reis van Emmen naar Dalen</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;999\"><span class=\"resource-name\">Reis van Dalen naar Coevorden</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;1000\"><span class=\"resource-name\">Reis van Coevorden naar Emmelenkamp</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;1001\"><span class=\"resource-name\">Reis van Emmelenkamp naar Ringe</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;1002\"><span class=\"resource-name\">Reis van Ringe naar Veldhuis</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;1003\"><span class=\"resource-name\">Reis van Veldhuis naar Klooster Frenswegen</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;1004\"><span class=\"resource-name\">Reis van Klooster Frenswegen naar Noordhoorn</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;1005\"><span class=\"resource-name\">Reis van Noordhoorn naar Isterberg</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;1006\"><span class=\"resource-name\">Reis van Isterberg naar Bentheim</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;1007\"><span class=\"resource-name\">Reis van Bentheim naar Wildberg</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;1008\"><span class=\"resource-name\">Reis van Wildberg naar Steinfurt</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;1009\"><span class=\"resource-name\">Reis van Steinfurt naar Munster</span></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1 July 1816"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "LET001"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "has component"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;829\"><span class=\"resource-name\">Ten vollen overtuigd dat beloften schulden maken vat ik reeds de derde dag na ons vertrek uit Groningen de pen op om u het verslag van onze reis herwaarts mede te deelen...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;830\"><span class=\"resource-name\">...en om u over de zeden, gebruiken en gewoonten van Duitslands inwooneren te onderhouden, daartoe heb ik noch tyd noch lust...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;831\"><span class=\"resource-name\">Wy verlieten dan op Zaturdag de 29 Juny 1816 onder ons vieren onze geboortestad met onze 3 Hollandsche reisgenoten een logement in Munster bepaald hebbende om elkanderen te ontmoeten: in plaats van den gewonen weg naar Coevorden te nemen besloten wy over Eext, Gieten, Gasselte en zoo vervolgens te ryden: zonder eenige byzonderheid passeerden wy successivelyk Haren, Harender-molen, Noord- Mid- en Zuidlaren, hielden ons een oogenblik te Anlo op en lieten van Eext het rytuig ledig naar Gieten ryden intusschen wandelden wy derwaarts langs de beroemde Eexter grafkelder...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;832\"><span class=\"resource-name\">Na te Gieten in den herberg by den Scholters Braams eenige ververschingen genomen te hebben, reden wy om 2 uur van daar en kwamen, na Gasselte &amp; Drouen gepasseerd te zyn, te Borger aan, alwaar wy een boterham met slegte koffy gebruikten: van hier is de weg zeer vervelend daar men tot Odoorn eene uitgestrekte heide heeft uitmakende een gedeelte van het bekende Ellersveld...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;833\"><span class=\"resource-name\">...wy hielden ons niet op te Odoorn, maar dronken te Emmen een kopje thee by den student Amshoff zoon van den Predicant...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;834\"><span class=\"resource-name\">Even achter het gehucht Erme hadden wy het ongeluk dat ons de knuppel van de wagen brak...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;835\"><span class=\"resource-name\">...doch dit had ons zoo lang opgehouden, dat wy na het aanzienlyke Dorp Dalen, dat voorleden jaar geheel verbrand is, gepasseerd te zyn laat en wel in donkeren, in Coevoorden aankwamen alwaar wy by den Hr Pothoff op een delicieus souper gewagt wierden en ons nachtverblyf in de Koppelpaarden namen.</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;836\"><span class=\"resource-name\">&#039;s Anderendaags waren wy, om ons in alles maar aan onze volgende levenswyze te gewennen, reeds vroeg opgestaan en na ontbeten Coevorden in alle rigtingen doorkruist en de wallen rondgewandelt te hebben, vertrokken wy van daar voort na vyf uren: wy hadden eenen zeer goeden voerman voor 9 guldens tot Noordhoorn aangenomen deeze reed uitmuntend zoodat wy al ras aan de grenzen van ons Vaderland waren gekomen...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;837\"><span class=\"resource-name\">Tot Emmelenkamp ook Emmelicheim genoemd ontmoette ons niets byzonders: wy hielden ons ook slechts een oogenblik aldaar op ten einde tol te betalen hetgeen ons door een bord voor het tolhuis geplaatst, waarop de cyfers van Georgius Rex, wierd aangeduid.</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;838\"><span class=\"resource-name\">wy hadden plan om van hier over Nieuhuis en Noordhoorn naar Bentheim te vertrekken, doch de zeer koddige kastelein... verwittigde ons dat wy de Vecht, die wegens de menigvuldige regens zeer gezwollen was, niet konden doorryden &#039;t welk ons deed besluiten om over Ringe en Velthuis te ryden.</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;839\"><span class=\"resource-name\">In laatst genoemde plaats kwamen wy om 10 uur aan en woonden voor een oogenblik de godsdienstoefening by onder het gehoor van Do Koppelman... gelukkig kwamen wy toch het klooster Frenswegen regts latende liggen om 12 uur te Noordhoorn.</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;840\"><span class=\"resource-name\">Wy stapten af by de ouders van den Student Sluiter wier overgroote vriendschap wy niet genoeg kunnen roemen: van onze komst verwittigd wierden wy aldaar op een delicieus diner onthaald...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;841\"><span class=\"resource-name\">Na afscheid van onze gulle gastheeren genomen te hebben, verlieten wy om 4 uuren Noordhoorn, wy waren tot Bentheim geaccordeerd voor 4-10-&quot; en weldra door Brandlicht op de Ysterberg gekomen te zynde wierden wy door het hooggelegene kasteel van Bentheim verrast schoon het nog een eind weg ervan af ligt...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;842\"><span class=\"resource-name\">Even voor Bentheim lieten wy de wagen naar de herberg ryden &amp; wandelden langs eene zeer moerassige laan naar de Zwavelbron genoegzaam midden in het bosch gelegen: wy vonden het koepeltje, dat op dezelve staat, gesloten...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;843\"><span class=\"resource-name\">van hier wandelden wy naar de stad en namen onzen intrek in het witte paard aan de voet van het kasteel gelegen.</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;844\"><span class=\"resource-name\">...dien wy tegen de volgende dag voor 5 guld tot Steinfurt aannamen...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;845\"><span class=\"resource-name\">Het kasteel bezigtigden wy slechts gedeeltelyk van binnen en om de bouwvalligheid van zommige delen, en wyl er weinig byzonders in het overige is...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;846\"><span class=\"resource-name\">op de eene zyde van het kasteel staat een toren welke door de Fransche Generaal van Damme by het verlaten van het kasteel geheel met kruid was gevuld geworden... waarna alle inwoners van Bentheim, die gevlugt waren, terugkwamen: aan de tegenovergestelde zyde is het grote stuk rots, Duivels oorkussen genoemd...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;847\"><span class=\"resource-name\">...na nog eene naburige steengroef, waarby die Heer ons de geheele bewerking toonde, gezien te hebben namen wy afscheid van zyn Ed alsmede van de Hr Goldsmit en begaven ons naar ons logement.</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;848\"><span class=\"resource-name\">...toen men ons kwam wekken en wy de reis verder naar Steinfort aannamen.</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;849\"><span class=\"resource-name\">Het equipagie waarmede wy het bekoorlyk geleegene Bentheim verlieten was juist niet van het brillianste...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;850\"><span class=\"resource-name\">Op de zeer vervelende weg ontmoette ons niets byzonders dan dat wy in een huttje onder Wilberg een weinig rechts van de weg afliggende een vrouwtje zagen...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;851\"><span class=\"resource-name\">Het kabinet van de Graaf van Steinfurt vonden wy nog even als de Heere reizigers bovengemeld op bl 57&amp;58 van het eerste deel schreven...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;852\"><span class=\"resource-name\">van hier wandelden wy gezamentlyk naar het Bagno zynde een lustplaats van den Graaf die thans te Parys is: hetzelve is op een vierde uur van de stad gelegen...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;853\"><span class=\"resource-name\">...wy wandelden hier vry wat rond en kwamen nog juist bytyds in de stad terug om in de Zon à table d&#039;hote te eeten.</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;854\"><span class=\"resource-name\">Hierdoor zeer versterkt vertrokken wy om twee uur met eenen voor 9 guldens afgehuurde wagen naar Munster: de weg derwaarts is alles behalven aangenaam zynde zeer vevelend en gedeeltelyk in eene regte lyn bylangs de vaart lopende...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;855\"><span class=\"resource-name\">...het was reeds over acht uuren toen wy deeze oude bisschoplyke stad binnenreden...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;856\"><span class=\"resource-name\">In het logement de stad Amsterdam, waar wy afgestapt zyn, spreekt men reeds niets als Duitsch daar de kastelein in Steinfurt, alwaar wy ons eerste Duitsche geld ontfingen, beide talen sprak...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;857\"><span class=\"resource-name\">...adresseerde wy ons; na lang te vergeefsch in boekwinkels enz gezogt te hebben, aan eenige Professoren in het voormalige Jesuiten klooster (thans het Universiteits gebouw) vergaderd ten einde een ordo lectionum te bekomen.</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;858\"><span class=\"resource-name\">...in eene volgende, waarschynlyk in t Paderborn, hoop ik u eenige merkwaardigheden van Munster, die wy morgen zullen opnemen, te beschryven.</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;939\"><span class=\"resource-name\">...intusschen wandelden wy derwaarts langs de beroemde Eexter grafkelder, door van Lier en zyne oudheidkundige brieven over Drente zoo naauwkeurig beschreven...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;940\"><span class=\"resource-name\">...naar het groote Hunnebed en de 2 drooge en natte kommen over al hetwelk gy de reis door Duitschland van Profr van Swinderen enz op bladz. 14 en 15 van het eerste deel kunt nazien.</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;941\"><span class=\"resource-name\">Even voor Bentheim lieten wy de wagen naar de herberg ryden &amp; wandelden langs eene zeer moerassige laan naar de Zwavelbron genoegzaam midden in het bosch gelegen...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;942\"><span class=\"resource-name\">...wierden wy door het hooggelegene kasteel van Bentheim verrast schoon het nog een eind weg ervan af ligt...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;943\"><span class=\"resource-name\">Het kasteel bezigtigden wy slechts gedeeltelyk van binnen en om de bouwvalligheid van zommige delen, en wyl er weinig byzonders in het overige is...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;944\"><span class=\"resource-name\">...aan de tegenovergestelde zyde is het grote stuk rots, Duivels oorkussen genoemd, waarop in vry duidelyke letters de woorden staan Hic Drusus dixit jura Tubantibus.</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;945\"><span class=\"resource-name\">Het kabinet van de Graaf van Steinfurt vonden wy nog even als de Heere reizigers bovengemeld op bl 57&amp;58 van het eerste deel schreven het is volstrekt een rommel zoo van alles door elkander waar ik behalve 3 a 4 goede schilderyen niets byzonders vond.</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;946\"><span class=\"resource-name\">van hier wandelden wy gezamentlyk naar het Bagno zynde een lustplaats van den Graaf die thans te Parys is...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;947\"><span class=\"resource-name\">voorts vindt men hier nog een colossaal geheel op zich zelf staand waterrad van 102 voet diameter hetwelk het water op eenen toren brengt waardoor eene fontein ter hoogte van 80 voet met eene straal van 13 duim springt...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;908\"><span class=\"resource-name\">Sentence where ExampleName is mentioned for this travel</span></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "pages"
+                ]
+            },
+            "value": {
+                "none": [
+                    "18-29"
+                ]
+            }
+        }
+    ],
+    "rights": "https://rightsstatements.org/vocab/CNE/1.0/",
+    "provider": [
+        {
+            "id": "http://localhost/omeka-s-claude/",
+            "type": "Agent",
+            "label": {
+                "none": [
+                    "ATO"
+                ]
+            }
+        }
+    ],
+    "viewingDirection": "left-to-right",
+    "seeAlso": [
+        {
+            "id": "http://localhost/omeka-s-claude/api/items/1031",
+            "type": "Dataset",
+            "label": {
+                "none": [
+                    "Api rest json-ld"
+                ]
+            },
+            "format": "application/ld+json",
+            "profile": "http://localhost/omeka-s-claude/api-context"
+        }
+    ],
+    "homepage": [
+        {
+            "id": "http://localhost/omeka-s-claude/s/ATO/item/1031",
+            "type": "Text",
+            "label": {
+                "none": [
+                    "Resource in site: Academic Tourism Online"
+                ]
+            },
+            "format": "text/html",
+            "language": [
+                "none"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,191 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "http://localhost/omeka-s-claude/iiif/3/1032/manifest",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Brief 2"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Title"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Brief 2"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "is about"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;1010\"><span class=\"resource-name\">Reis van Munster naar Telgt</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;1011\"><span class=\"resource-name\">Reis van Telgt naar Wahrendorf</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;1012\"><span class=\"resource-name\">Reis van Wahrendorf naar Beele</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;1013\"><span class=\"resource-name\">Reis van Beele naar Clarholz</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;1014\"><span class=\"resource-name\">Reis van Clarholz naar Herzebrock</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;1015\"><span class=\"resource-name\">Reis van Herzebrock naar Neuenkirche</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;1016\"><span class=\"resource-name\">Reis van Neuenkirche naar Neuhaus</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;1017\"><span class=\"resource-name\">Reis van Neuhaus naar Paderborn</span></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "4 July 1816"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "LET002"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "has component"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;859\"><span class=\"resource-name\">Slechts ééne dag in Munster vertoevende is het geen wonder dat wy dien ook goed gebruikten en reeds vroeg op de been waren om het een en ander te bezigtigen: wy maakten een aanvang met het klooster der barmhartige broeders te bezien...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;860\"><span class=\"resource-name\">De kerk tot dit gebouw behorende is zeer fraay en eenigsints naar de St Pieterskerk gebouwd ook vond men er eene Kapel juist naar de Sancta Casa van Loretta gebouwd...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;861\"><span class=\"resource-name\">De groote Domkerk juist open ziende staan traden wy dezelve binnen...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;862\"><span class=\"resource-name\">...hetgeen in dezelve voornaamlyk onze aandagt tot zich trok was de kapel waarin Barentje van Galen... begraven ligt...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;863\"><span class=\"resource-name\">...zoo zagen wy toch in de capel, naast die van Barentje van Galen, een groote glazen kast waarin te voren een zwaar zilveren oorlogschip... was volgens zommigen door de Staten van Holland volgens anderen door de Blokzylsters aan voornoemde Bisschop gegeven...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;864\"><span class=\"resource-name\">Behalven den Dom zagen wy nog de Uberwasser &amp; Lamberti kerken...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;865\"><span class=\"resource-name\">...aan de toren van de laatste ziet men de 3 yzeren kooyen hangen waarin Jan van Leiden met 2 van zyne voornaamste aanhangers is opgesloten geweest, terwyl aan ieder der 4 pylaren die voor het Stadshuis staan, eene knyptang hangt...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;866\"><span class=\"resource-name\">Dit stadhuis uitwendig van geene de minste byzonderheid had echter voor ons Hollanders iets zeer merkwaardigs men vind namelyk in het zelve de zaal waar in 1648 de beroemde Munstersche vrede is getekend geworden...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;867\"><span class=\"resource-name\">Door een zoort van gangetje bezyden het Stadhuis over een plaatsje gaande komt men in de bewuste zaal...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;868\"><span class=\"resource-name\">Het slot weleer door de bisschoppen, thans door de Commandant der stad bewoond, is wel der moeite waardig om te zien...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;869\"><span class=\"resource-name\">...de slossverwalter althans sloeg ons verzoek glad af: hier echter niet meede te vrede gingen wy... de schildwagter voorby het slot binnen, door het schoone vestibule, de heerlyke trap op &amp; kwamen zo geheel ongemerkt op de magnifique geheel vergulde &amp; met grote spiegels verzierde zaal...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;870\"><span class=\"resource-name\">Toen wy weder beneden kwamen zagen wy de talryke bezetting, die inmiddels op het groote plein voor het slot was te zamen gekomen...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;871\"><span class=\"resource-name\">Wy bragten het overige van den avond in de schoone tuin, agter het slot gelegen, door...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;872\"><span class=\"resource-name\">Dien zelfden avond arriveerden van Arnhem onze overige Reisgenoten te weten Profr Tydeman van Leiden... die ons slechts tot Gottingen zal vergezellen, terwyl onze andere compagnon de Student Hogendorp reeds vooruitgereist is, welken wy voor Cassel waarschynlyk niet zullen ontmoeten.</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;873\"><span class=\"resource-name\">Zie daar dan het een en ander nopens Munster... doch veronderstellende dat gy ook nieuwsgierig zult zyn hoe wy hier te Paderborn zyn gekomen zal ik deeze nog vervolgen tot onze komst alhier.</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;874\"><span class=\"resource-name\">Den 3 July. Reeds vroeg vertrokken wy van Munster met de gewoone postwagen...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;875\"><span class=\"resource-name\">...dat wy om te Paderborn te komen nog menig uur ons zouden moeten vervelen daar de weg tusschen deese plaats en Munster ver van aangenaam doch daaren tegen zeer eentonig is...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;876\"><span class=\"resource-name\">Even voor het stadje Telgt, 3 uren van Munster gelegen, ontmoette ons de andere postwagen...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;877\"><span class=\"resource-name\">Te Telgt wierden de paarden gevoederd van welk oogenblik wy gebruik stamakten om het wonder doend Mariabeeld, dat daar is, te bezigtigen.</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;878\"><span class=\"resource-name\">Dit beeld, dat... uit eene groote lindeboom, voor de poort der stad staande, als eene jonge maagd is uitgegroeid...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;879\"><span class=\"resource-name\">In de capel vonden wy het beeld zelve niet maar wel eene menigte groote en kleine krukkenstokjes enz... even als in de kerk daar digt by staande waar wy het beeld vonden...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;880\"><span class=\"resource-name\">...dat de dief, een Hessisch soldaat en vader van 10 kinderen, gevat zynde voogewend dat de moeder Gods hem gewenkt had...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;881\"><span class=\"resource-name\">Telgt verlatende kwamen wy langs eene allervervelendste weg om één uur te Wahrensdorf de eerste station aan, een geruime tyd in Gezelschap gereden te hebbende met eenige wagens gekwetsten en verminkte Pruissen, die nu eerst uit de hospitalen van Holland &amp; Braband... terug kwamen...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;882\"><span class=\"resource-name\">In den Koning van Engeland gebruikten wy hier een ellendig... diner...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;883\"><span class=\"resource-name\">...kwamen wy om 6½ uur, na Beele gepasseerd te zyn, te Clarholtz aan...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;884\"><span class=\"resource-name\">...zo ik my niet bedrieg was het de dag van de tweede inneming van Parys.</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;885\"><span class=\"resource-name\">Het Klooster dat men hier vind zagen wy slechts uitwendig doch gingen even in de vry nette Kerk...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;886\"><span class=\"resource-name\">Kort daarna te Herzebrock aankomende hadden wy moeite om een verdekte wagen te bekomen...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;887\"><span class=\"resource-name\">...kwamen we een paar uur eerder, en wel des nagts om één uur, te Neuenkirchen aan zynde de derde station: hier hadden wy eene zonderlinge ontmoeting...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;888\"><span class=\"resource-name\">...vonden dat wy in eene stal waren gereden...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;889\"><span class=\"resource-name\">...belandde na veel horten en botzen eindelyk in een groot vertrek hetwelk door het kleine lampje slechts gedeeltelyk verlicht was...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;890\"><span class=\"resource-name\">...opende wel verscheiden deuren doch kwam nu eens in eene donkere zykamer, dan eens met de neus in eene kleer of provisie Kast dan weder elders tot het hem eindelyk gelukte het bed van den Postmeester &amp; zijne Ega te vinden...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;891\"><span class=\"resource-name\">...gaf ons ander licht en bezorgde in een kleinder vertrekje boter, brood en zoogenaamde fusel...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;892\"><span class=\"resource-name\">Met dit ellendig rytuig verlieten wy dezen morgen voort na drie uur Neuenkirchen en onophoudelyk stappende besloten wy met iemand, die de weg wist, vooruit te wandelen waardoor wy tydig genoeg op het Hauf, zynde de eerste herberg, aankwamen...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;893\"><span class=\"resource-name\">Toen gingen wy weder op ons ellendig rytuig waarmede wy te 10¼ uur te Neuhaus arriveerden, welk stadje tusschen de bergen in een valley liggende zich allerbekoorlykst voordoet...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;894\"><span class=\"resource-name\">...voorby het voormalige Bisschoplyke Kasteel, dat er uitwendig goed uit ziet, tot wy de andere poort weder uit waren...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;895\"><span class=\"resource-name\">...door eene schoone laan van castanje boomen rydende kwamen wy ongeveer drie vierde uur daarna &amp; wel om 11 uur hier aan, aan het zeer goede posthuis afstappende.</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;896\"><span class=\"resource-name\">Even als te Neuhaus zyn ook hier te Paderborn de straten geheel met mest, modder en slyk opgehoopt...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;897\"><span class=\"resource-name\">De stad is de oorsprong van haren naam verschuldigd aan de kleine rivier de Pader, welke door het tezamen vloeyen van 3 onderscheiden beekjes, die uit eenen in de nabyheid gelegende berg ontspringen, in deze stad ontstaat en vervolgens zich in de Lippe ontlast.</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;898\"><span class=\"resource-name\">Onder het merkwaardige dat deeze stad oplevert verdient voorzeker de trotsche domkerk genoemd te worden...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;899\"><span class=\"resource-name\">...wy zagen het monument nog midden in de kerk opgerigt...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;900\"><span class=\"resource-name\">...trof ons zeer een schoon stuk in marmer verbeeldende het laatste oordeel... zyne fraaye tombe daar juist over, die van bisschop Wilhelm Antoon...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;901\"><span class=\"resource-name\">By deeze kerk is het opmerkingswaardig dat men onder het koor van de tegenwoordige nog de oude kerk vindt...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;902\"><span class=\"resource-name\">Ook de Jesuitenkerk moet een zeer fraay en bezienswaardig gebouw zyn...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;903\"><span class=\"resource-name\">...hopende op deze wyze nog heden avond in Cassel te zyn hetgeen men ons hier verzekerd dat geschieden kan, dan Vriend lief ik geloof niet dat wy heden Cassel zullen zien...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;948\"><span class=\"resource-name\">wy maakten een aanvang met het klooster der barmhartige broeders te bezien welk gesticht zyn oorsprong aan Clemens August verschuldigt is...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;949\"><span class=\"resource-name\">De groote Domkerk juist open ziende staan traden wy dezelve binnen: het is een schoon gebouw waar van veele sieraden van beeldhouwwerk enz zyn aangebragt...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;950\"><span class=\"resource-name\">...hetgeen in dezelve voornaamlyk onze aandagt tot zich trok was de kapel waarin Barentje van Galen, heerschzuchtiger gedachtenis, begraven ligt waar altyd eene brandende lamp hangt; dezelve is door een zwaar metalen hek... van de kerk zelve afgescheiden, hy rust onder eene fraaye graftombe van zwart marmer waarop hy ook is afgebeeld...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;951\"><span class=\"resource-name\">...verder vind men er nog eene schoone tombe van den Grave van Plettenberg, een zeer schoon &amp; groot altaar &amp; eenige restes van voormalige kostbaarheden.</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;952\"><span class=\"resource-name\">Behalven den Dom zagen wy nog de Uberwasser &amp; Lamberti kerken...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;953\"><span class=\"resource-name\">Behalven den Dom zagen wy nog de Uberwasser &amp; Lamberti kerken...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;954\"><span class=\"resource-name\">...en aan de toren van de laatste ziet men de 3 yzeren kooyen hangen waarin Jan van Leiden met 2 van zyne voornaamste aanhangers is opgesloten geweest...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;955\"><span class=\"resource-name\">...terwyl aan ieder der 4 pylaren die voor het Stadshuis staan, eene knyptang hangt waarmede hun op den 23 January 1536 het vleesch uit het lichaam is gereten daar zy geheel gloeiend waren.</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;956\"><span class=\"resource-name\">Dit stadhuis uitwendig van geene de minste byzonderheid had echter voor ons Hollanders iets zeer merkwaardigs...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;957\"><span class=\"resource-name\">...men vind namelyk in het zelve de zaal waar in 1648 de beroemde Munstersche vrede is getekend geworden &amp; die juist zoo gebleven is als zy by het vertrek der gezanten was...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;958\"><span class=\"resource-name\">Te Telgt wierden de paarden gevoederd van welk oogenblik wy gebruik maakten om het wonder doend Mariabeeld, dat daar is, te bezigtigen.</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;909\"><span class=\"resource-name\">Dien zelfden avond arriveerden van Arnhem onze overige Reisgenoten te weten Profr Tydeman van Leiden...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;910\"><span class=\"resource-name\">...de Stud: Bodel &amp; de Hr de Geer Secretaris van Z.E. de Hr Repelaar van Driel...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;911\"><span class=\"resource-name\">...de Hr de Geer Secretaris van Z.E. de Hr Repelaar van Driel die ons slechts tot Gottingen zal vergezellen...</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;912\"><span class=\"resource-name\">...terwyl onze andere compagnon de Student Hogendorp reeds vooruitgereist is, welken wy voor Cassel waarschynlyk niet zullen ontmoeten.</span></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "pages"
+                ]
+            },
+            "value": {
+                "none": [
+                    "30-47"
+                ]
+            }
+        }
+    ],
+    "rights": "https://rightsstatements.org/vocab/CNE/1.0/",
+    "provider": [
+        {
+            "id": "http://localhost/omeka-s-claude/",
+            "type": "Agent",
+            "label": {
+                "none": [
+                    "ATO"
+                ]
+            }
+        }
+    ],
+    "viewingDirection": "left-to-right",
+    "seeAlso": [
+        {
+            "id": "http://localhost/omeka-s-claude/api/items/1032",
+            "type": "Dataset",
+            "label": {
+                "none": [
+                    "Api rest json-ld"
+                ]
+            },
+            "format": "application/ld+json",
+            "profile": "http://localhost/omeka-s-claude/api-context"
+        }
+    ],
+    "homepage": [
+        {
+            "id": "http://localhost/omeka-s-claude/s/ATO/item/1032",
+            "type": "Text",
+            "label": {
+                "none": [
+                    "Resource in site: Academic Tourism Online"
+                ]
+            },
+            "format": "text/html",
+            "language": [
+                "none"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>Beschrijving in briefvorm van een reis, gemaakt door Reneke de Marees van Swinderen in gezelschap van zijn stadgenoten La Faille, Modderman en professor Theodorus van Swinderen, alsmede van professor (H.W.) Tydeman te Leiden, de studenten Bodel Nijenhuis en Hogendorp, en ten dele door De Geer, van Groningen via Munster naar Berlijn en vervolg...</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: g.j.s.sportel@student.rug.nl</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile xml:id='facs_68'>
+		<surface ulx='0' uly='0' lrx='2098' lry='2540'>
+			<graphic url='0068_00068.jpg' width='2098px' height='2540px'/>
+			<zone points='719,266 719,105 1286,105 1286,266' rendition='TextRegion' subtype='heading' xml:id='facs_68_r'>
+				<zone points='714,207 955,228 984,210 1163,213 1163,136 1148,130 1081,164 1005,133 962,163 841,170 771,131 714,141' rendition='Line' xml:id='facs_68_l'/>
+			</zone>
+			<zone points='853,1269 853,1168 1286,1168 1286,1269' rendition='TextRegion' subtype='caption' xml:id='facs_68_r_1'>
+				<zone points='876,1244 938,1231 1084,1249 1110,1235 1192,1255 1285,1240 1284,1190 1248,1174 1170,1195 1117,1168 1052,1171 1028,1189 938,1157 874,1175' rendition='Line' xml:id='facs_68_l_1'/>
+			</zone>
+			<zone points='1286,2250 1286,2340 719,2340 719,2250' rendition='TextRegion' subtype='caption' xml:id='facs_68_r_2'>
+				<zone points='748,2335 1245,2351 1267,2348 1265,2288 1076,2281 1039,2299 1018,2280 746,2279' rendition='Line' xml:id='facs_68_l_2'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_69'>
+		<surface ulx='0' uly='0' lrx='2083' lry='2540'>
+			<graphic url='0069_00069.jpg' width='2083px' height='2540px'/>
+			<zone points='1878,47 1985,47 1985,140 1878,140' rendition='TextRegion' subtype='page-number' xml:id='facs_69_r'>
+				<zone points='1876,123 1893,120 1902,125 1913,120 1920,123 1927,116 1941,120 1955,132 1967,132 1967,60 1946,62 1939,69 1927,65 1895,93 1888,88 1876,88' rendition='Line' xml:id='facs_69_tr_1_tl_2'/>
+			</zone>
+			<zone points='140,10 140,2424 2002,2424 2002,10' rendition='TextRegion' subtype='paragraph' xml:id='facs_69_tr_1'>
+				<zone points='919,194 1006,174 1097,204 1180,162 1210,187 1256,171 1381,201 1469,171 1578,178 1610,162 1613,81 1532,104 1404,83 1360,113 1310,90 1194,130 1162,104 1115,125 1050,93 919,97' rendition='Line' xml:id='facs_69_tr_1_tl_3'/>
+				<zone points='541,366 717,349 736,368 875,389 969,345 1048,354 1050,250 1013,238 838,264 689,241 544,273' rendition='Line' xml:id='facs_69_tr_1_tl_4'/>
+				<zone points='141,451 373,484 708,444 814,493 923,442 1020,481 1069,442 1957,433 1960,340 1719,342 1601,391 1182,356 1018,414 754,359 585,423 143,368' rendition='Line' xml:id='facs_69_tr_1_tl_5'/>
+				<zone points='141,518 319,562 560,525 650,565 794,516 1948,493 1950,437 1809,412 1076,444 1009,486 930,442 831,491 708,444 143,495' rendition='Line' xml:id='facs_69_tr_1_tl_6'/>
+				<zone points='134,597 312,641 412,595 803,581 926,622 974,581 1948,569 1950,509 1740,484 1578,530 1411,497 898,562 766,516 652,565 137,518' rendition='Line' xml:id='facs_69_tr_1_tl_7'/>
+				<zone points='127,676 1099,676 1680,622 1863,659 1960,615 1960,562 1870,553 1821,588 972,583 926,622 854,588 363,599 312,641 250,597 130,611' rendition='Line' xml:id='facs_69_tr_1_tl_8'/>
+				<zone points='134,736 1957,699 1957,618 1860,659 1680,622 500,694 137,664' rendition='Line' xml:id='facs_69_tr_1_tl_9'/>
+				<zone points='130,812 1925,766 1981,759 1983,696 132,743' rendition='Line' xml:id='facs_69_tr_1_tl_10'/>
+				<zone points='137,861 900,879 1490,814 1846,854 1893,773 139,801' rendition='Line' xml:id='facs_69_tr_1_tl_11'/>
+				<zone points='132,921 435,944 1478,884 1522,928 1638,872 1805,912 1939,886 1941,828 1259,824 1201,870 738,847 671,884 134,858' rendition='Line' xml:id='facs_69_tr_1_tl_12'/>
+				<zone points='134,983 442,1009 891,969 960,1004 1194,963 1277,1002 1377,958 1974,946 1923,882 1812,912 1728,870 1522,928 1231,895 1067,946 919,946 863,902 643,949 581,914 410,949 137,919' rendition='Line' xml:id='facs_69_tr_1_tl_14'/>
+				<zone points='125,1067 1930,1027 1934,956 1876,939 1576,988 1365,958 1277,1004 1192,965 960,1004 130,995' rendition='Line' xml:id='facs_69_tr_1_tl_15'/>
+				<zone points='132,1141 347,1120 486,1159 599,1118 909,1136 1499,1083 1603,1120 1974,1067 1974,1020 1832,1009 1273,1069 1192,1032 585,1083 134,1060' rendition='Line' xml:id='facs_69_tr_1_tl_16'/>
+				<zone points='134,1212 400,1231 521,1182 868,1205 1124,1162 1365,1194 1752,1145 1830,1178 1990,1129 1990,1078 1842,1076 1603,1120 1474,1085 1064,1094 905,1141 602,1115 484,1162 345,1120 137,1136' rendition='Line' xml:id='facs_69_tr_1_tl_17'/>
+				<zone points='134,1275 1580,1254 1879,1194 1976,1224 1978,1134 1851,1178 1752,1145 1714,1178 137,1217' rendition='Line' xml:id='facs_69_tr_1_tl_18'/>
+				<zone points='134,1344 451,1321 523,1363 956,1312 1018,1344 1233,1296 1671,1326 1948,1261 1950,1208 1837,1199 1354,1273 898,1275 861,1242 541,1300 451,1254 137,1275' rendition='Line' xml:id='facs_69_tr_1_tl_19'/>
+				<zone points='137,1416 1664,1379 1955,1356 1957,1293 139,1349' rendition='Line' xml:id='facs_69_tr_1_tl_20'/>
+				<zone points='137,1460 595,1448 678,1483 1106,1432 1199,1476 1319,1425 1988,1409 1990,1351 1839,1340 1566,1398 1506,1363 1314,1402 139,1411' rendition='Line' xml:id='facs_69_tr_1_tl_21'/>
+				<zone points='134,1536 1950,1492 1953,1409 1372,1462 1300,1425 1203,1472 1120,1435 680,1481 137,1460' rendition='Line' xml:id='facs_69_tr_1_tl_22'/>
+				<zone points='141,1578 447,1606 717,1569 840,1608 1131,1550 1263,1606 1367,1548 1927,1553 1927,1488 1837,1467 935,1541 747,1506 497,1548 141,1532' rendition='Line' xml:id='facs_69_tr_1_tl_23'/>
+				<zone points='146,1675 1911,1606 1913,1559 1791,1539 1647,1578 1536,1541 1460,1583 1374,1548 1242,1594 1039,1555 842,1608 604,1573 463,1622 414,1580 150,1590' rendition='Line' xml:id='facs_69_tr_1_tl_24'/>
+				<zone points='130,1733 1360,1677 1462,1717 1573,1666 1988,1657 1990,1590 1534,1643 1402,1610 1347,1654 1289,1620 1136,1661 724,1640 354,1696 132,1664' rendition='Line' xml:id='facs_69_tr_1_tl_25'/>
+				<zone points='143,1816 613,1782 995,1809 1166,1756 1997,1726 1999,1677 1798,1647 1469,1717 1259,1687 148,1731' rendition='Line' xml:id='facs_69_tr_1_tl_26'/>
+				<zone points='137,1876 1990,1821 1992,1731 1853,1728 1714,1772 1668,1740 1078,1768 993,1809 139,1809' rendition='Line' xml:id='facs_69_tr_1_tl_27'/>
+				<zone points='134,1939 361,1960 768,1907 861,1953 983,1897 1974,1893 1976,1842 1897,1800 1629,1853 1328,1821 1129,1870 831,1832 597,1886 137,1876' rendition='Line' xml:id='facs_69_tr_1_tl_28'/>
+				<zone points='139,2004 618,2013 694,1978 773,2011 898,1967 1055,2011 1233,1955 1548,1981 1592,1946 1957,1941 1911,1874 1872,1907 1749,1872 1650,1918 1219,1888 983,1932 942,1904 865,1948 750,1907 585,1950 537,1916 479,1955 141,1944' rendition='Line' xml:id='facs_69_tr_1_tl_29'/>
+				<zone points='134,2066 574,2085 768,2043 935,2085 1006,2041 1490,2064 1573,2020 1990,2015 1992,1932 1416,1992 1263,1953 1057,2011 923,1967 777,2015 694,1981 217,2031 137,1988' rendition='Line' xml:id='facs_69_tr_1_tl_30'/>
+				<zone points='134,2152 1006,2106 1118,2149 1178,2103 1291,2133 1372,2096 1613,2131 1717,2080 1962,2080 1964,2022 1846,2050 1761,2008 1502,2064 1085,2041 935,2089 863,2055 137,2066' rendition='Line' xml:id='facs_69_tr_1_tl_31'/>
+				<zone points='148,2203 863,2214 1509,2161 1668,2198 1969,2170 1974,2075 1689,2087 1606,2143 1374,2094 1286,2131 1192,2099 1122,2147 717,2122 609,2166 546,2122 393,2122 148,2173' rendition='Line' xml:id='facs_69_tr_1_tl_32'/>
+				<zone points='148,2302 1293,2284 1476,2237 1659,2270 1705,2235 1948,2244 1950,2156 1694,2200 1513,2163 1162,2217 969,2189 907,2224 833,2191 213,2230 150,2198' rendition='Line' xml:id='facs_69_tr_1_tl_33'/>
+				<zone points='148,2374 1957,2314 1957,2256 1566,2277 1485,2237 1340,2286 150,2302' rendition='Line' xml:id='facs_69_tr_1_tl_34'/>
+				<zone points='137,2416 724,2464 1025,2413 1187,2450 1490,2383 1608,2441 1886,2379 1974,2411 1976,2321 137,2372' rendition='Line' xml:id='facs_69_tr_1_tl_35'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<div>
+				<pb facs='#facs_68' n='68'/>
+				<p facs='#facs_68_r'>
+					<lg>
+						<l facs='#facs_68_l'>Vierde Brief.</l>
+					</lg>
+				</p>
+				<p facs='#facs_68_r_1'>
+					<lg>
+						<l facs='#facs_68_l_1'><placeName wikiData='Q447441' placeName='Bergpark Wilhelmshöhe'><country>DE</country>Willhelmshöhe</placeName> bei <placeName wikiData='Q2865' placeName='Kassel'><country>DE</country>Caßsell</placeName>.</l>
+					</lg>
+				</p>
+				<p facs='#facs_68_r_2'>
+					<lg>
+						<l facs='#facs_68_l_2'><placeName wikiData='Q447441' placeName='Bergpark Wilhelmshöhe'><country>DE</country>Wilhelmshöhe</placeName> bei <placeName wikiData='Q2865' placeName='Kassel'><country>DE</country>Cassel</placeName>.</l>
+					</lg>
+				</p>
+				<pb facs='#facs_69' n='69'/>
+				<p facs='#facs_69_r'>
+					<lg>
+						<l facs='#facs_69_tr_1_tl_2'>26.</l>
+					</lg>
+				</p>
+				<p facs='#facs_69_tr_1'>
+					<lg>
+						<l facs='#facs_69_tr_1_tl_3'><placeName wikiData='Q3033' placeName='Göttingen'><country>DE</country>Göttingen</placeName> den <date wikiData='Q69207093' when='1816-07-09'>9 July 1816</date>.</l>
+						<l facs='#facs_69_tr_1_tl_4'>Waardste Vriend!</l>
+						<l facs='#facs_69_tr_1_tl_5'><placeName wikiData='Q447441' placeName='Bergpark Wilhelmshöhe'><country>DE</country>Wilhelmshöhe</placeName>, voorheen <placeName wikiData='Q447441' placeName='Bergpark Wilhelmshöhe'><country>DE</country>Weissenstein</placeName> genoemd en ook reeds een blaauwe maan</l>
+						<l facs='#facs_69_tr_1_tl_6'>dag <placeName wikiData='Q447441' placeName='Bergpark Wilhelmshöhe'><country>DE</country>Napoleonshöhe</placeName> geheten, is een lustplaats aan den Keurvorst van</l>
+						<l facs='#facs_69_tr_1_tl_7'>Hessen Cassel toebehorende een groot uur van de stad gelegen: de landgraven</l>
+						<l facs='#facs_69_tr_1_tl_8'><persName wikiData='Q62516'>Karel</persName> en <persName wikiData='Q454473'>Frederik de II</persName> hebben hetzelve begonnen &amp; het is op eene heerlyke wyze</l>
+						<l facs='#facs_69_tr_1_tl_9'>door den thans regeerende <persName wikiData='Q506216'>Keurvorst Willem de IX</persName> voltooid geworden. Even als</l>
+						<l facs='#facs_69_tr_1_tl_10'>ik reeds meermalen gedaan heb zal ik u maar alles in die orde mededeelen</l>
+						<l facs='#facs_69_tr_1_tl_11'>als het ons is voorgekomen. Langs eene lange breede laan gingen wy</l>
+						<l facs='#facs_69_tr_1_tl_12'><date wikiData='Q69207091' when='1816-07-07'>Zondag</date> ll naar het zoo beroemde <placeName wikiData='Q687186' placeName='Schloss Wilhelmshöhe'><country>DE</country>Weissenstein</placeName> en wel op dien dag om</l>
+						<l facs='#facs_69_tr_1_tl_14'>dat alle waterwerken dan in beweging zyn hetgeen men niet dan met groo</l>
+						<l facs='#facs_69_tr_1_tl_15'>te moeite op andere dagen gedaan kan krygen waarby men dan toch</l>
+						<l facs='#facs_69_tr_1_tl_16'>altyd het groote gewoel der wandelaars zoo wel inwoners der stad als</l>
+						<l facs='#facs_69_tr_1_tl_17'>vreemdelingen mist. Op eenige afstand der stad gekomen zagen wy regts</l>
+						<l facs='#facs_69_tr_1_tl_18'>af de enorme Casernes door <persName wikiData='Q151087'>Jerome</persName> in zyne tyd gebouwd waar verschei</l>
+						<l facs='#facs_69_tr_1_tl_19'>den duizend man, ja volgens het zeggen van iemand, ’t geen my echter on</l>
+						<l facs='#facs_69_tr_1_tl_20'>waarschynlyk voorkomt, wel 30,000 man in geborgen kunnen worden:</l>
+						<l facs='#facs_69_tr_1_tl_21'>deeze linden allee is aan weerszyde met huizen bezet waaron</l>
+						<l facs='#facs_69_tr_1_tl_22'>der eenige zeer goede en enkele mooye tuinhuizen; dan spoedig maar uit</l>
+						<l facs='#facs_69_tr_1_tl_23'>die laan, verbeeldt u thans maar voor het paleis te staan dat op</l>
+						<l facs='#facs_69_tr_1_tl_24'>een zagt glooyend terras is gebouwd aan de eene zyde met de</l>
+						<l facs='#facs_69_tr_1_tl_25'>gouden letteren <placeName wikiData='Q687186' placeName='Schloss Wilhelmshöhe'><country>DE</country>Wilhelmshöhe</placeName> &amp; aan de andere zyde met de woorden</l>
+						<l facs='#facs_69_tr_1_tl_26'><persName wikiData='Q506216'>Gulielmus IX Elector</persName> condidit, prykt. Het is in eene bevallige smaak</l>
+						<l facs='#facs_69_tr_1_tl_27'>gebouwd met een plat dak voorzien waaruit zich eene koepel verheft</l>
+						<l facs='#facs_69_tr_1_tl_28'>van 62 voeten doorsnede en van waar, zoo als wy vervolgens</l>
+						<l facs='#facs_69_tr_1_tl_29'>zagen, men een heerlyk gezicht op <placeName wikiData='Q2865' placeName='Kassel'><country>DE</country>Cassel</placeName> en de omliggende streken</l>
+						<l facs='#facs_69_tr_1_tl_30'>heeft voor het overige bestaat het geheel uit een hoofdgebouw &amp; twee vleu</l>
+						<l facs='#facs_69_tr_1_tl_31'>gelen die door een zoort van verdekte galery vereenigd zyn. Inwendig</l>
+						<l facs='#facs_69_tr_1_tl_32'>beantwoordt alles aan het grootsche denkbeeld dat men by het eerste</l>
+						<l facs='#facs_69_tr_1_tl_33'>gezicht reeds heeft opgevat; door een zeer ruim en schoon vestibule</l>
+						<l facs='#facs_69_tr_1_tl_34'>gegaan zynde komt men dadelyk aan de danszaal die zeer schoon is</l>
+						<l facs='#facs_69_tr_1_tl_35'>vervolgens in eene galery van schilderyen waaronder van grote meesters</l>
+					</lg>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

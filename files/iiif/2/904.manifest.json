@@ -1,0 +1,95 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "http://localhost/Academic-Tourism-Online/iiif/2/904/manifest",
+    "@type": "sc:Manifest",
+    "label": "Professor Tydeman",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"https&#x3A;&#x2F;&#x2F;www.wikidata.org&#x2F;wiki&#x2F;Q15448722\">Professor Tydeman</a>"
+        },
+        {
+            "label": "was born",
+            "value": "25 of august 1778"
+        },
+        {
+            "label": "died in",
+            "value": "6 march 1863"
+        },
+        {
+            "label": "gender",
+            "value": "male"
+        },
+        {
+            "label": "Identifier",
+            "value": "PER002"
+        }
+    ],
+    "thumbnail": {
+        "@id": "http://localhost/Academic-Tourism-Online/files/medium/870474e389d38eb4b1860528c0cdae01d05cd2d9.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 158,
+        "height": 200
+    },
+    "viewingDirection": "left-to-right",
+    "license": "https://rightsstatements.org/vocab/CNE/1.0/",
+    "related": {
+        "@id": "http://localhost/Academic-Tourism-Online/s/ATO-en/item/904",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "http://localhost/Academic-Tourism-Online/api/items/904",
+        "format": "application/ld+json"
+    },
+    "sequences": [
+        {
+            "@id": "http://localhost/Academic-Tourism-Online/iiif/2/904/sequence/normal",
+            "@type": "sc:Sequence",
+            "label": "Current Page Order",
+            "viewingDirection": "left-to-right",
+            "canvases": [
+                {
+                    "@id": "http://localhost/Academic-Tourism-Online/iiif/2/904/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "label": "Professor Tydeman",
+                    "thumbnail": {
+                        "@id": "http://localhost/Academic-Tourism-Online/files/medium/870474e389d38eb4b1860528c0cdae01d05cd2d9.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "width": 158,
+                        "height": 200
+                    },
+                    "width": 330,
+                    "height": 417,
+                    "images": [
+                        {
+                            "@id": "http://localhost/Academic-Tourism-Online/iiif/2/904/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost/Academic-Tourism-Online/iiif/2/870474e389d38eb4b1860528c0cdae01d05cd2d9.jpg/full/330,417/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 330,
+                                "height": 417,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://localhost/Academic-Tourism-Online/iiif/2/870474e389d38eb4b1860528c0cdae01d05cd2d9.jpg",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "http://localhost/Academic-Tourism-Online/iiif/2/904/canvas/p1"
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Title",
+                            "value": "Professor Tydeman"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

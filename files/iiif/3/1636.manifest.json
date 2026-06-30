@@ -1,0 +1,103 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "http://localhost/Academic-Tourism-Online/iiif/3/1636/manifest",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "1809 Theodorus van Swinderen"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Title"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1809 Theodorus van Swinderen"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Language"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Dutch"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a class=\"uri-value-link\" target=\"_blank\" href=\"https&#x3A;&#x2F;&#x2F;www.getty.edu&#x2F;vow&#x2F;AATFullDisplay&#x3F;find&#x3D;&amp;place&#x3D;&amp;nation&#x3D;&amp;logic&#x3D;&amp;note&#x3D;&amp;role&#x3D;&amp;subjectid&#x3D;300015644\">Original</a>",
+                    "<a class=\"uri-value-link\" target=\"_blank\" href=\"https&#x3A;&#x2F;&#x2F;www.getty.edu&#x2F;vow&#x2F;AATFullDisplay&#x3F;find&#x3D;&amp;place&#x3D;&amp;nation&#x3D;&amp;logic&#x3D;&amp;note&#x3D;&amp;role&#x3D;&amp;subjectid&#x3D;300252927\">Handwriting</a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://rightsstatements.org/vocab/CNE/1.0/",
+    "provider": [
+        {
+            "id": "http://localhost/Academic-Tourism-Online/",
+            "type": "Agent",
+            "label": {
+                "none": [
+                    "ATO"
+                ]
+            }
+        }
+    ],
+    "viewingDirection": "left-to-right",
+    "seeAlso": [
+        {
+            "id": "http://localhost/Academic-Tourism-Online/api/items/1636",
+            "type": "Dataset",
+            "label": {
+                "none": [
+                    "Api rest json-ld"
+                ]
+            },
+            "format": "application/ld+json",
+            "profile": "http://localhost/Academic-Tourism-Online/api-context"
+        }
+    ],
+    "homepage": [
+        {
+            "id": "http://localhost/Academic-Tourism-Online/s/ATO-en/item/1636",
+            "type": "Text",
+            "label": {
+                "none": [
+                    "Resource in site: Academic Tourism Online"
+                ]
+            },
+            "format": "text/html",
+            "language": [
+                "en_US"
+            ]
+        },
+        {
+            "id": "http://localhost/Academic-Tourism-Online/s/ATO-nl/item/1636",
+            "type": "Text",
+            "label": {
+                "none": [
+                    "Resource in site: Academisch Tourisme Online"
+                ]
+            },
+            "format": "text/html",
+            "language": [
+                "nl_NL"
+            ]
+        }
+    ]
+}

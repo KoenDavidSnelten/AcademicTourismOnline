@@ -1,0 +1,77 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "http://localhost/omeka-s-claude/iiif/3/1140/manifest",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Pagina 69"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Title"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Pagina 69"
+                ]
+            }
+        }
+    ],
+    "rights": "https://rightsstatements.org/vocab/CNE/1.0/",
+    "provider": [
+        {
+            "id": "http://localhost/omeka-s-claude/",
+            "type": "Agent",
+            "label": {
+                "none": [
+                    "ATO"
+                ]
+            }
+        }
+    ],
+    "viewingDirection": "left-to-right",
+    "seeAlso": [
+        {
+            "id": "http://localhost/omeka-s-claude/api/items/1140",
+            "type": "Dataset",
+            "label": {
+                "none": [
+                    "Api rest json-ld"
+                ]
+            },
+            "format": "application/ld+json",
+            "profile": "http://localhost/omeka-s-claude/api-context"
+        }
+    ],
+    "homepage": [
+        {
+            "id": "http://localhost/omeka-s-claude/s/ATO/item/1140",
+            "type": "Text",
+            "label": {
+                "none": [
+                    "Resource in site: Academic Tourism Online"
+                ]
+            },
+            "format": "text/html",
+            "language": [
+                "none"
+            ]
+        }
+    ],
+    "rendering": [
+        {
+            "id": "http://localhost/omeka-s-claude/files/original/620538c7d781af64bcf838980b49b12eb0632add.xml",
+            "type": "Dataset",
+            "label": {
+                "none": [
+                    "Dataset [TEI XML]"
+                ]
+            },
+            "format": "application/tei+xml"
+        }
+    ]
+}

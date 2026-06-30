@@ -1,0 +1,125 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "http://localhost/omeka-s-claude/iiif/3/1033/manifest",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Brief 3"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Title"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Brief 3"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "is about"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;1018\"><span class=\"resource-name\">Reis van Paderborn naar Dornhagen</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;1019\"><span class=\"resource-name\">Reis van Dornhagen naar Grondsteinheim</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;1020\"><span class=\"resource-name\">Reis van Grondsteinheim naar Lichtenau</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;1021\"><span class=\"resource-name\">Reis van Lichtenau naar Kleinenberg</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;1022\"><span class=\"resource-name\">Reis van Kleinenberg naar Hardehauserwoud</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;1023\"><span class=\"resource-name\">Reis van Hardehauserwoud naar Desenberg</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;1024\"><span class=\"resource-name\">Reis van Desenberg naar Ossendorf</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;1025\"><span class=\"resource-name\">Reis van Ossendorf naar Warburg</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;1026\"><span class=\"resource-name\">Reis van Warburg naar Libenau</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;1027\"><span class=\"resource-name\">Reis van Libenau naar West Uffelen</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;1028\"><span class=\"resource-name\">Reis van West Uffelen naar Meinbitz</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;1029\"><span class=\"resource-name\">Reis van Meinbitz naar Kalken</span></a>",
+                    "<a class=\"resource-link\" href=\"http&#x3A;&#x2F;&#x2F;localhost&#x2F;omeka-s-claude&#x2F;s&#x2F;ATO&#x2F;item&#x2F;1030\"><span class=\"resource-name\">Reis van Kalken naar Cassel</span></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "7 July 1816"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "LET003"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "pages"
+                ]
+            },
+            "value": {
+                "none": [
+                    "48-67"
+                ]
+            }
+        }
+    ],
+    "rights": "https://rightsstatements.org/vocab/CNE/1.0/",
+    "provider": [
+        {
+            "id": "http://localhost/omeka-s-claude/",
+            "type": "Agent",
+            "label": {
+                "none": [
+                    "ATO"
+                ]
+            }
+        }
+    ],
+    "viewingDirection": "left-to-right",
+    "seeAlso": [
+        {
+            "id": "http://localhost/omeka-s-claude/api/items/1033",
+            "type": "Dataset",
+            "label": {
+                "none": [
+                    "Api rest json-ld"
+                ]
+            },
+            "format": "application/ld+json",
+            "profile": "http://localhost/omeka-s-claude/api-context"
+        }
+    ],
+    "homepage": [
+        {
+            "id": "http://localhost/omeka-s-claude/s/ATO/item/1033",
+            "type": "Text",
+            "label": {
+                "none": [
+                    "Resource in site: Academic Tourism Online"
+                ]
+            },
+            "format": "text/html",
+            "language": [
+                "none"
+            ]
+        }
+    ]
+}

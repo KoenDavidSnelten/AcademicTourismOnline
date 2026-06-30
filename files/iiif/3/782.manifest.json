@@ -1,0 +1,89 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "http://localhost/ATO_Vis_V2/iiif/3/782/manifest",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Groningen"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Title"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Groningen"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Spatial Coverage"
+                ]
+            },
+            "value": {
+                "none": [
+                    "53.2194, 6.5665"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "LOC001"
+                ]
+            }
+        }
+    ],
+    "rights": "https://rightsstatements.org/vocab/CNE/1.0/",
+    "provider": [
+        {
+            "id": "http://localhost/ATO_Vis_V2/",
+            "type": "Agent",
+            "label": {
+                "none": [
+                    "ATO"
+                ]
+            }
+        }
+    ],
+    "viewingDirection": "left-to-right",
+    "seeAlso": [
+        {
+            "id": "http://localhost/ATO_Vis_V2/api/items/782",
+            "type": "Dataset",
+            "label": {
+                "none": [
+                    "Api rest json-ld"
+                ]
+            },
+            "format": "application/ld+json",
+            "profile": "http://localhost/ATO_Vis_V2/api-context"
+        }
+    ],
+    "homepage": [
+        {
+            "id": "http://localhost/ATO_Vis_V2/s/ATO/item/782",
+            "type": "Text",
+            "label": {
+                "none": [
+                    "Resource in site: Academic Tourism Online V2"
+                ]
+            },
+            "format": "text/html",
+            "language": [
+                "none"
+            ]
+        }
+    ]
+}

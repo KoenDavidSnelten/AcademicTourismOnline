@@ -1,0 +1,46 @@
+<header class="main-header">
+
+	<?php echo $userBar; ?>
+
+	<div class="main-header__top-bar container">
+		<div class="main-header__site-title">
+			<a href="<?php echo $site->url(); ?>">
+			<?php if ($this->themeSetting('logo')): ?>
+				<img src="<?php echo $this->themeSettingAssetUrl('logo'); ?>" alt="<?php echo $this->escapeHtml( $site->title() ); ?>" />
+			<?php else: ?>
+				<?php echo $this->escapeHtml( $site->title() ); ?>
+			<?php endif; ?>
+			</a>
+		</div>
+		<a class="main-header__advanced-search" href="<?php echo $site->url() . '/item/search'; ?>">Advanced Search</a>
+		<div class="main-header__search-form">
+			<?php echo $this->partial('common/search-form'); ?>
+		</div>
+		<?php if ($this->getHelperPluginManager()->has('languageSwitcher')): ?>
+		<div class="main-header__language-switcher">
+			<?= $this->languageSwitcher(['displayLocale' => 'locale']) ?>
+		</div>
+		<?php endif; ?>
+	</div>
+
+	<div class="main-header__nav-bar">
+		<div class="container">
+			<nav class="main-navigation">
+				<div class="main-navigation__container">
+					<?php
+					echo $site->publicNav()->menu()->renderMenu(null, [
+						'addClassToListItem' => true,
+						'maxDepth' => $this->themeSetting('nav_depth') - 1
+					]);
+					?>
+				</div>
+				<div class="main-navigation__toggle">
+					<span></span>
+					<span></span>
+					<span></span>
+				</div>
+			</nav>
+		</div>
+	</div>
+
+</header>
